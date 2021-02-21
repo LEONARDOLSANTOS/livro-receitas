@@ -1,5 +1,7 @@
-# Livro de receitas 
+# Livro de receitas
 
 Bem vindo ao livros de receitas
 
-- Strogonof
+- Strogonof de frango
+- Strogonof de carne
+- Risoto
