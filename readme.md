@@ -1,4 +1,4 @@
-# Livro de receitas :man-cooking
+# Livro de receitas 
 
 Bem vindo ao livros de receitas
 
